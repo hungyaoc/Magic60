@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  TestLocalString2
+
+  Created by Hung-Yao Chen on 6/20/13.
+  Copyright (c) 2013 Hung-Yao Chen. All rights reserved.
+*/
+
+
+"KEY1" = "你好";
+
+"Page 1/6" = "第一頁";
+"Page 2/6" = "第二頁";
+"Page 3/6" = "第三頁";
+"Page 4/6" = "第四頁";
+"Page 5/6" = "第五頁";
+"Page 6/6" = "最後一頁";
+
+"Shake your phone to see the magic" = "搖動你的手機,魔術將會發生";
+"Please choose a number from 1 to 60 and don't tell me." = "在你心中從1到60挑一個數字，然後點擊\“下一步\”";
+"Pick a Number" = "神奇數字";
+"Continue" = "下一步";
+"Thank You!" = "謝謝您!";
+"The transaction is done." = "交易完成.";
+
+"Is your number list above?" = "你的數字是否存在?";
+"Yes"   = "是";
+"No"    = "否";
+"Close" = "關閉";
+"Restart" = "重來";
+
+"Scratch to see the answer" = "刮一刮可以看到答案";
